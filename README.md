@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @itskaulkashish
+- 👋 Hi, I’m Kashish Kaul
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning advance Javascript
 - 📫 How to reach me: kashishkaul2001@gmail.com
